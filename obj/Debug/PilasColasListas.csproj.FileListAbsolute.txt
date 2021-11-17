@@ -1,0 +1,14 @@
+C:\Users\USER\Repositorios\PilasColasListas\bin\Debug\PilasColasListas.exe.config
+C:\Users\USER\Repositorios\PilasColasListas\bin\Debug\PilasColasListas.exe
+C:\Users\USER\Repositorios\PilasColasListas\bin\Debug\PilasColasListas.pdb
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.csproj.AssemblyReference.cache
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Login.resources
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Options.resources
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Properties.Resources.resources
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.csproj.GenerateResource.cache
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.exe
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.pdb
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Colas.resources
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Pilas.resources
+C:\Users\USER\Repositorios\PilasColasListas\obj\Debug\PilasColasListas.Listas.resources
